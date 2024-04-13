@@ -1,5 +1,5 @@
 # Contributors
-- [semitha]
+- [semitha and]
 - [wpa](https://github.com/waiphyo111000)
 - [Bishal Khadka](https://github.com/bkhadka2)
 - [Cannon Hutcheson]
